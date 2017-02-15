@@ -1,0 +1,45 @@
+C:\Sistema\SISCOC\SISCOC\SqlServerBackupRestore\bin\Release\SqlServerBackupRestore.dll
+C:\Sistema\SISCOC\SISCOC\SqlServerBackupRestore\bin\Release\SqlServerBackupRestore.pdb
+C:\Sistema\SISCOC\SISCOC\SqlServerBackupRestore\bin\Release\Microsoft.SqlServer.Replication.dll
+C:\Sistema\SISCOC\SISCOC\SqlServerBackupRestore\bin\Release\Microsoft.SqlServer.BatchParser.dll
+C:\Sistema\SISCOC\SISCOC\SqlServerBackupRestore\bin\Release\es\Microsoft.SqlServer.Replication.resources.dll
+C:\Sistema\SISCOC\SISCOC\SqlServerBackupRestore\obj\Release\ResolveAssemblyReference.cache
+C:\Sistema\SISCOC\SISCOC\SqlServerBackupRestore\obj\Release\SqlServerBackupRestore.dll
+C:\Sistema\SISCOC\SISCOC\SqlServerBackupRestore\obj\Release\SqlServerBackupRestore.pdb
+C:\SISCOC\SISCOC\SqlServerBackupRestore\bin\Debug\SqlServerBackupRestore.dll
+C:\SISCOC\SISCOC\SqlServerBackupRestore\bin\Debug\SqlServerBackupRestore.pdb
+C:\SISCOC\SISCOC\SqlServerBackupRestore\bin\Debug\Microsoft.SqlServer.Replication.dll
+C:\SISCOC\SISCOC\SqlServerBackupRestore\bin\Debug\Microsoft.SqlServer.BatchParser.dll
+C:\SISCOC\SISCOC\SqlServerBackupRestore\obj\Debug\ResolveAssemblyReference.cache
+C:\SISCOC\SISCOC\SqlServerBackupRestore\obj\Debug\SqlServerBackupRestore.dll
+C:\SISCOC\SISCOC\SqlServerBackupRestore\obj\Debug\SqlServerBackupRestore.pdb
+E:\TOTAL\SISCOC\SISCOC\SqlServerBackupRestore\bin\Release\SqlServerBackupRestore.dll
+E:\TOTAL\SISCOC\SISCOC\SqlServerBackupRestore\bin\Release\SqlServerBackupRestore.pdb
+E:\TOTAL\SISCOC\SISCOC\SqlServerBackupRestore\bin\Release\Microsoft.SqlServer.Replication.dll
+E:\TOTAL\SISCOC\SISCOC\SqlServerBackupRestore\bin\Release\Microsoft.SqlServer.BatchParser.dll
+E:\TOTAL\SISCOC\SISCOC\SqlServerBackupRestore\bin\Release\es\Microsoft.SqlServer.Replication.resources.dll
+E:\TOTAL\SISCOC\SISCOC\SqlServerBackupRestore\obj\Release\ResolveAssemblyReference.cache
+E:\TOTAL\SISCOC\SISCOC\SqlServerBackupRestore\obj\Release\SqlServerBackupRestore.dll
+E:\TOTAL\SISCOC\SISCOC\SqlServerBackupRestore\obj\Release\SqlServerBackupRestore.pdb
+C:\Anju031109\SISCOC\SqlServerBackupRestore\bin\Release\SqlServerBackupRestore.dll
+C:\Anju031109\SISCOC\SqlServerBackupRestore\bin\Release\SqlServerBackupRestore.pdb
+C:\Anju031109\SISCOC\SqlServerBackupRestore\bin\Release\Microsoft.SqlServer.Replication.dll
+C:\Anju031109\SISCOC\SqlServerBackupRestore\bin\Release\Microsoft.SqlServer.BatchParser.dll
+C:\Anju031109\SISCOC\SqlServerBackupRestore\bin\Release\es\Microsoft.SqlServer.Replication.resources.dll
+C:\Anju031109\SISCOC\SqlServerBackupRestore\obj\Release\ResolveAssemblyReference.cache
+C:\Anju031109\SISCOC\SqlServerBackupRestore\obj\Release\SqlServerBackupRestore.dll
+C:\Anju031109\SISCOC\SqlServerBackupRestore\obj\Release\SqlServerBackupRestore.pdb
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SqlServerBackupRestore\bin\Debug\SqlServerBackupRestore.dll
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SqlServerBackupRestore\bin\Debug\SqlServerBackupRestore.pdb
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SqlServerBackupRestore\bin\Debug\Microsoft.SqlServer.Replication.dll
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SqlServerBackupRestore\bin\Debug\Microsoft.SqlServer.BatchParser.dll
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SqlServerBackupRestore\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SqlServerBackupRestore\obj\Debug\SqlServerBackupRestore.dll
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SqlServerBackupRestore\obj\Debug\SqlServerBackupRestore.pdb
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SqlServerBackupRestore\bin\Debug\SqlServerBackupRestore.dll
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SqlServerBackupRestore\bin\Debug\SqlServerBackupRestore.pdb
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SqlServerBackupRestore\bin\Debug\Microsoft.SqlServer.Replication.dll
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SqlServerBackupRestore\bin\Debug\Microsoft.SqlServer.BatchParser.dll
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SqlServerBackupRestore\obj\Debug\ResolveAssemblyReference.cache
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SqlServerBackupRestore\obj\Debug\SqlServerBackupRestore.dll
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SqlServerBackupRestore\obj\Debug\SqlServerBackupRestore.pdb

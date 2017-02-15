@@ -1,0 +1,475 @@
+C:\SISTEMAS\SISCOC\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_FEL.exe
+C:\SISTEMAS\SISCOC\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_FEL.pdb
+C:\SISTEMAS\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\ResolveAssemblyReference.cache
+C:\SISTEMAS\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmLogin.resources
+C:\SISTEMAS\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.Properties.Resources.resources
+C:\SISTEMAS\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.csproj.GenerateResource.Cache
+C:\SISTEMAS\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.exe
+C:\SISTEMAS\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.pdb
+C:\SISTEMAS\SISCOC\SISCOC\SISCOC_FEL\bin\Debug\msmdvbanet.dll
+C:\SISTEMAS\SISCOC\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_FEL.exe.config
+C:\SISTEMAS\SISCOC\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_BL.dll
+C:\SISTEMAS\SISCOC\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_DAL.dll
+C:\SISTEMAS\SISCOC\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_BL.pdb
+C:\SISTEMAS\SISCOC\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_DAL.pdb
+E:\Nueva carpeta\SISTEMAS\SISCOC\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_FEL.exe.config
+E:\Nueva carpeta\SISTEMAS\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.exe
+E:\Nueva carpeta\SISTEMAS\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.pdb
+F:\Nueva carpeta\SISTEMAS\SISCOC\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_FEL.exe.config
+F:\Nueva carpeta\SISTEMAS\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.exe
+F:\Nueva carpeta\SISTEMAS\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.pdb
+F:\Nueva carpeta\SISTEMAS\SISCOC\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_FEL.exe
+F:\Nueva carpeta\SISTEMAS\SISCOC\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_FEL.pdb
+F:\Nueva carpeta\SISTEMAS\SISCOC\SISCOC\SISCOC_FEL\bin\Debug\msmdvbanet.dll
+F:\Nueva carpeta\SISTEMAS\SISCOC\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_BL.dll
+F:\Nueva carpeta\SISTEMAS\SISCOC\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_DAL.dll
+F:\Nueva carpeta\SISTEMAS\SISCOC\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_BL.pdb
+F:\Nueva carpeta\SISTEMAS\SISCOC\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_DAL.pdb
+F:\Nueva carpeta\SISTEMAS\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\ResolveAssemblyReference.cache
+F:\Nueva carpeta\SISTEMAS\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmLogin.resources
+F:\Nueva carpeta\SISTEMAS\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmPaginaPrincipal.resources
+F:\Nueva carpeta\SISTEMAS\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.Properties.Resources.resources
+F:\Nueva carpeta\SISTEMAS\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.csproj.GenerateResource.Cache
+F:\Nueva carpeta\SISTEMAS\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.exe.licenses
+F:\SISTEMAS\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_FEL.exe.config
+F:\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.exe
+F:\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.pdb
+F:\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\ResolveAssemblyReference.cache
+F:\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmCliente.resources
+F:\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmLogin.resources
+F:\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmPaginaPrincipal.resources
+F:\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.Properties.Resources.resources
+F:\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.csproj.GenerateResource.Cache
+F:\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.exe.licenses
+E:\SISTEMAS\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_FEL.exe.config
+E:\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.exe
+E:\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.pdb
+E:\SISTEMAS\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_FEL.exe
+E:\SISTEMAS\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_FEL.pdb
+E:\SISTEMAS\SISCOC\SISCOC_FEL\bin\Debug\msmdvbanet.dll
+E:\SISTEMAS\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_BL.dll
+E:\SISTEMAS\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_DAL.dll
+E:\SISTEMAS\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_BL.pdb
+E:\SISTEMAS\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_DAL.pdb
+E:\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\ResolveAssemblyReference.cache
+E:\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmCliente.resources
+E:\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmLogin.resources
+E:\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmObra.resources
+E:\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmPaginaPrincipal.resources
+E:\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.Properties.Resources.resources
+E:\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.csproj.GenerateResource.Cache
+E:\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.exe.licenses
+E:\SISTEMAS\SISCOC\SISCOC_FEL\bin\Release\SISCOC_FEL.exe.config
+D:\SISTEMAS\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_FEL.exe.config
+D:\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.exe
+D:\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.pdb
+D:\SISTEMAS\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_FEL.exe
+D:\SISTEMAS\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_FEL.pdb
+D:\SISTEMAS\SISCOC\SISCOC_FEL\bin\Debug\msmdvbanet.dll
+D:\SISTEMAS\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_BL.dll
+D:\SISTEMAS\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_DAL.dll
+D:\SISTEMAS\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_BL.pdb
+D:\SISTEMAS\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_DAL.pdb
+D:\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\ResolveAssemblyReference.cache
+D:\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmCliente.resources
+D:\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmClienteDireccion.resources
+D:\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmLogin.resources
+D:\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmObra.resources
+D:\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmPaginaPrincipal.resources
+D:\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.Properties.Resources.resources
+D:\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.csproj.GenerateResource.Cache
+D:\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.exe.licenses
+D:\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmUsuario.resources
+D:\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.Splash.resources
+D:\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmArticulo.resources
+D:\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmArticulo_Obra.resources
+D:\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmBusqueda.resources
+D:\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmKit.resources
+D:\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmTraspaso.resources
+C:\ANJU\SISTEMAS\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_FEL.exe.config
+C:\ANJU\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.exe
+C:\ANJU\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.pdb
+C:\ANJU\SISTEMAS\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_FEL.exe
+C:\ANJU\SISTEMAS\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_FEL.pdb
+C:\ANJU\SISTEMAS\SISCOC\SISCOC_FEL\bin\Debug\msmdvbanet.dll
+C:\ANJU\SISTEMAS\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_BL.dll
+C:\ANJU\SISTEMAS\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_DAL.dll
+C:\ANJU\SISTEMAS\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_BL.pdb
+C:\ANJU\SISTEMAS\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_DAL.pdb
+C:\ANJU\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\ResolveAssemblyReference.cache
+C:\ANJU\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmArticulo.resources
+C:\ANJU\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmArticulo_Obra.resources
+C:\ANJU\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmBusqueda.resources
+C:\ANJU\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmCliente.resources
+C:\ANJU\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmClienteDireccion.resources
+C:\ANJU\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmKit.resources
+C:\ANJU\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmLogin.resources
+C:\ANJU\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmObra.resources
+C:\ANJU\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmPaginaPrincipal.resources
+C:\ANJU\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmTraspaso.resources
+C:\ANJU\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmUsuario.resources
+C:\ANJU\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.Properties.Resources.resources
+C:\ANJU\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.Splash.resources
+C:\ANJU\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.csproj.GenerateResource.Cache
+C:\ANJU\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.exe.licenses
+D:\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmProveedor.resources
+D:\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmContactoProveedor.resources
+D:\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmVisualizaReporte.resources
+D:\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmReporteCliente.resources
+D:\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.Reportes.AReporteCliente.resources
+D:\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\Interop.ActiveReportsExcelExport.dll
+D:\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\Interop.ActiveReportsHTMLExport.dll
+D:\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\Interop.ActiveReportsPDFExport.dll
+D:\SISTEMAS\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.csproj.ResolveComReference.cache
+D:\SISTEMAS\SISCOC\SISCOC_FEL\bin\Debug\Interop.ActiveReportsExcelExport.dll
+D:\SISTEMAS\SISCOC\SISCOC_FEL\bin\Debug\Interop.ActiveReportsHTMLExport.dll
+D:\SISTEMAS\SISCOC\SISCOC_FEL\bin\Debug\Interop.ActiveReportsPDFExport.dll
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_FEL.exe.config
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.exe
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.pdb
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Release\ResolveAssemblyReference.cache
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Release\Interop.ActiveReportsExcelExport.dll
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Release\Interop.ActiveReportsHTMLExport.dll
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Release\Interop.ActiveReportsPDFExport.dll
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.csproj.ResolveComReference.cache
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmArticulo.resources
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmArticulo_Obra.resources
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmBusqueda.resources
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmCliente.resources
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmClienteDireccion.resources
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmContactoProveedor.resources
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmKit.resources
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmLogin.resources
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmObra.resources
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmPaginaPrincipal.resources
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmProveedor.resources
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmReporteCliente.resources
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmTraspaso.resources
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmUsuario.resources
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.Properties.Resources.resources
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.Reportes.AReporteCliente.resources
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmVisualizaReporte.resources
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.Splash.resources
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.csproj.GenerateResource.Cache
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.exe.licenses
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Release\Interop.ActiveReportsDesignTime.dll
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Release\Interop.DDActiveReports.dll
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Release\Interop.DDActiveReportsViewer.dll
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\bin\Release\SISCOC_FEL.exe.config
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\ResolveAssemblyReference.cache
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\Interop.ActiveReportsDesignTime.dll
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\Interop.ActiveReportsExcelExport.dll
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\Interop.ActiveReportsHTMLExport.dll
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\Interop.ActiveReportsPDFExport.dll
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\Interop.DDActiveReports.dll
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\Interop.DDActiveReportsViewer.dll
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.csproj.ResolveComReference.cache
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmArticulo.resources
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmArticulo_Obra.resources
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmBusqueda.resources
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmCliente.resources
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmClienteDireccion.resources
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmContactoProveedor.resources
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmKit.resources
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmLogin.resources
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmObra.resources
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmPaginaPrincipal.resources
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmProveedor.resources
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmReporteCliente.resources
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmTraspaso.resources
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmUsuario.resources
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.Properties.Resources.resources
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.Reportes.AReporteCliente.resources
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmVisualizaReporte.resources
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.Splash.resources
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.csproj.GenerateResource.Cache
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.exe.licenses
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_FEL.exe
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_FEL.pdb
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\bin\Debug\msmdvbanet.dll
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_BL.dll
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_DAL.dll
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_BL.pdb
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_DAL.pdb
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\bin\Debug\Interop.ActiveReportsDesignTime.dll
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\bin\Debug\Interop.ActiveReportsExcelExport.dll
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\bin\Debug\Interop.ActiveReportsHTMLExport.dll
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\bin\Debug\Interop.ActiveReportsPDFExport.dll
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\bin\Debug\Interop.DDActiveReports.dll
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\bin\Debug\Interop.DDActiveReportsViewer.dll
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.RepObra.resources
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmFiltroObra.resources
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\bin\Release\SISCOC_FEL.exe
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\bin\Release\SISCOC_FEL.pdb
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\bin\Release\msmdvbanet.dll
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\bin\Release\SISCOC_BL.dll
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\bin\Release\SISCOC_DAL.dll
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\bin\Release\SISCOC_BL.pdb
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\bin\Release\SISCOC_DAL.pdb
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\bin\Release\Interop.ActiveReportsDesignTime.dll
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\bin\Release\Interop.ActiveReportsExcelExport.dll
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\bin\Release\Interop.ActiveReportsHTMLExport.dll
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\bin\Release\Interop.ActiveReportsPDFExport.dll
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\bin\Release\Interop.DDActiveReports.dll
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\bin\Release\Interop.DDActiveReportsViewer.dll
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.exe
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.pdb
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmFiltroObra.resources
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.RepObra.resources
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmUtileria.resources
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\bin\Debug\SqlServerBackupRestore.dll
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\bin\Debug\Microsoft.SqlServer.Replication.dll
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\bin\Debug\Microsoft.SqlServer.BatchParser.dll
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\bin\Debug\SqlServerBackupRestore.pdb
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\bin\Debug\es\Microsoft.SqlServer.Replication.resources.dll
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\bin\Release\SqlServerBackupRestore.dll
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\bin\Release\Microsoft.SqlServer.Replication.dll
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\bin\Release\Microsoft.SqlServer.BatchParser.dll
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\bin\Release\SqlServerBackupRestore.pdb
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\bin\Release\es\Microsoft.SqlServer.Replication.resources.dll
+C:\Sistema\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmUtileria.resources
+C:\SISCOC\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_FEL.exe.config
+C:\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.exe
+C:\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.pdb
+C:\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\ResolveAssemblyReference.cache
+C:\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.csproj.ResolveComReference.cache
+C:\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmArticulo.resources
+C:\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmArticulo_Obra.resources
+C:\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmBusqueda.resources
+C:\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmContactoProveedor.resources
+C:\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmFiltroObra.resources
+C:\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmKit.resources
+C:\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmLogin.resources
+C:\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmObra.resources
+C:\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmPaginaPrincipal.resources
+C:\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmProveedor.resources
+C:\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmReporteCliente.resources
+C:\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmTraspaso.resources
+C:\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmUsuario.resources
+C:\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmUtileria.resources
+C:\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.Properties.Resources.resources
+C:\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.Reportes.AReporteCliente.resources
+C:\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmVisualizaReporte.resources
+C:\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.RepObra.resources
+C:\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.Splash.resources
+C:\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.csproj.GenerateResource.Cache
+C:\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.exe.licenses
+C:\SISCOC\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_FEL.exe
+C:\SISCOC\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_FEL.pdb
+C:\SISCOC\SISCOC\SISCOC_FEL\bin\Debug\ActiveReports.Interop.dll
+C:\SISCOC\SISCOC\SISCOC_FEL\bin\Debug\ARVSPackage.dll
+C:\SISCOC\SISCOC\SISCOC_FEL\bin\Debug\msmdvbanet.dll
+C:\SISCOC\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_BL.dll
+C:\SISCOC\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_DAL.dll
+C:\SISCOC\SISCOC\SISCOC_FEL\bin\Debug\SqlServerBackupRestore.dll
+C:\SISCOC\SISCOC\SISCOC_FEL\bin\Debug\Microsoft.SqlServer.Replication.dll
+C:\SISCOC\SISCOC\SISCOC_FEL\bin\Debug\Microsoft.SqlServer.BatchParser.dll
+C:\SISCOC\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_DAL.pdb
+C:\SISCOC\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_BL.pdb
+C:\SISCOC\SISCOC\SISCOC_FEL\bin\Debug\SqlServerBackupRestore.pdb
+C:\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmBuscaObra.resources
+C:\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmProveedor1.resources
+C:\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmProspecto.resources
+C:\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmProspectoDireccion.resources
+E:\TOTAL\SISCOC\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_FEL.exe.config
+E:\TOTAL\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.exe
+E:\TOTAL\SISCOC\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.pdb
+E:\TOTAL\SISCOC\SISCOC\SISCOC_FEL\obj\Release\ResolveAssemblyReference.cache
+E:\TOTAL\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.csproj.ResolveComReference.cache
+E:\TOTAL\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmArticulo.resources
+E:\TOTAL\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmArticulo_Obra.resources
+E:\TOTAL\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmBuscaObra.resources
+E:\TOTAL\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmBusqueda.resources
+E:\TOTAL\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmProspecto.resources
+E:\TOTAL\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmProspectoDireccion.resources
+E:\TOTAL\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmContactoProveedor.resources
+E:\TOTAL\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmFiltroObra.resources
+E:\TOTAL\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmKit.resources
+E:\TOTAL\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmLogin.resources
+E:\TOTAL\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmObra.resources
+E:\TOTAL\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmPaginaPrincipal.resources
+E:\TOTAL\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmProveedor.resources
+E:\TOTAL\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmProveedor1.resources
+E:\TOTAL\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmReporteCliente.resources
+E:\TOTAL\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmTraspaso.resources
+E:\TOTAL\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmUsuario.resources
+E:\TOTAL\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmUtileria.resources
+E:\TOTAL\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.Properties.Resources.resources
+E:\TOTAL\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.Reportes.AReporteCliente.resources
+E:\TOTAL\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmVisualizaReporte.resources
+E:\TOTAL\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.RepObra.resources
+E:\TOTAL\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.Splash.resources
+E:\TOTAL\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.csproj.GenerateResource.Cache
+E:\TOTAL\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.exe.licenses
+E:\TOTAL\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.exe
+E:\TOTAL\SISCOC\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.pdb
+C:\Anju031109\SISCOC\SISCOC_FEL\bin\Release\SISCOC_FEL.exe.config
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.exe
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.pdb
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Release\ResolveAssemblyReference.cache
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.csproj.ResolveComReference.cache
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmArticulo.resources
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmArticulo_Obra.resources
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmBuscaObra.resources
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmBusqueda.resources
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmProspecto.resources
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmProspectoDireccion.resources
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmContactoProveedor.resources
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmFiltroObra.resources
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmKit.resources
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmLogin.resources
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmObra.resources
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmPaginaPrincipal.resources
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmProveedor.resources
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmProveedor1.resources
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmReporteCliente.resources
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmTraspaso.resources
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmUsuario.resources
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmUtileria.resources
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.Properties.Resources.resources
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.Reportes.AReporteCliente.resources
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.FrmVisualizaReporte.resources
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.RepObra.resources
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.Splash.resources
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.csproj.GenerateResource.Cache
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Release\SISCOC_FEL.exe.licenses
+C:\Anju031109\SISCOC\SISCOC_FEL\bin\Release\SISCOC_FEL.exe
+C:\Anju031109\SISCOC\SISCOC_FEL\bin\Release\SISCOC_FEL.pdb
+C:\Anju031109\SISCOC\SISCOC_FEL\bin\Release\msmdvbanet.dll
+C:\Anju031109\SISCOC\SISCOC_FEL\bin\Release\SISCOC_BL.dll
+C:\Anju031109\SISCOC\SISCOC_FEL\bin\Release\SISCOC_DAL.dll
+C:\Anju031109\SISCOC\SISCOC_FEL\bin\Release\SqlServerBackupRestore.dll
+C:\Anju031109\SISCOC\SISCOC_FEL\bin\Release\Microsoft.SqlServer.Replication.dll
+C:\Anju031109\SISCOC\SISCOC_FEL\bin\Release\Microsoft.SqlServer.BatchParser.dll
+C:\Anju031109\SISCOC\SISCOC_FEL\bin\Release\SqlServerBackupRestore.pdb
+C:\Anju031109\SISCOC\SISCOC_FEL\bin\Release\SISCOC_BL.pdb
+C:\Anju031109\SISCOC\SISCOC_FEL\bin\Release\SISCOC_DAL.pdb
+C:\Anju031109\SISCOC\SISCOC_FEL\bin\Release\es\Microsoft.SqlServer.Replication.resources.dll
+C:\Anju031109\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_FEL.exe.config
+C:\Anju031109\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_FEL.exe
+C:\Anju031109\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_FEL.pdb
+C:\Anju031109\SISCOC\SISCOC_FEL\bin\Debug\msmdvbanet.dll
+C:\Anju031109\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_BL.dll
+C:\Anju031109\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_DAL.dll
+C:\Anju031109\SISCOC\SISCOC_FEL\bin\Debug\SqlServerBackupRestore.dll
+C:\Anju031109\SISCOC\SISCOC_FEL\bin\Debug\Microsoft.SqlServer.Replication.dll
+C:\Anju031109\SISCOC\SISCOC_FEL\bin\Debug\Microsoft.SqlServer.BatchParser.dll
+C:\Anju031109\SISCOC\SISCOC_FEL\bin\Debug\SqlServerBackupRestore.pdb
+C:\Anju031109\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_BL.pdb
+C:\Anju031109\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_DAL.pdb
+C:\Anju031109\SISCOC\SISCOC_FEL\bin\Debug\es\Microsoft.SqlServer.Replication.resources.dll
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Debug\ResolveAssemblyReference.cache
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.csproj.ResolveComReference.cache
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmArticulo.resources
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmArticulo_Obra.resources
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmBuscaObra.resources
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmBusqueda.resources
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmProspecto.resources
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmProspectoDireccion.resources
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmContactoProveedor.resources
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmFiltroObra.resources
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmKit.resources
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmLogin.resources
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmObra.resources
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmPaginaPrincipal.resources
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmProveedor.resources
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmProveedor1.resources
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmReporteCliente.resources
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmTraspaso.resources
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmUsuario.resources
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmUtileria.resources
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.Properties.Resources.resources
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.Reportes.AReporteCliente.resources
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmVisualizaReporte.resources
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.RepObra.resources
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.Splash.resources
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.csproj.GenerateResource.Cache
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.exe.licenses
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.exe
+C:\Anju031109\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.pdb
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_FEL.exe.config
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.exe
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.pdb
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SISCOC_FEL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.csproj.ResolveComReference.cache
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmArticulo.resources
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmArticulo_Obra.resources
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmBuscaObra.resources
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmBusqueda.resources
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmProspecto.resources
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmProspectoDireccion.resources
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmContactoProveedor.resources
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmFiltroObra.resources
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmKit.resources
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmLogin.resources
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmObra.resources
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmPaginaPrincipal.resources
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmProveedor.resources
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmProveedor1.resources
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmReporteCliente.resources
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmTraspaso.resources
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmUsuario.resources
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmUtileria.resources
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.Properties.Resources.resources
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.Reportes.AReporteCliente.resources
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmVisualizaReporte.resources
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.RepObra.resources
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.Splash.resources
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.csproj.GenerateResource.Cache
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.exe.licenses
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_FEL.exe
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_FEL.pdb
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SISCOC_FEL\bin\Debug\ARVSPackage.dll
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SISCOC_FEL\bin\Debug\msmdvbanet.dll
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_BL.dll
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_DAL.dll
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SISCOC_FEL\bin\Debug\SqlServerBackupRestore.dll
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SISCOC_FEL\bin\Debug\Microsoft.SqlServer.Replication.dll
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SISCOC_FEL\bin\Debug\Microsoft.SqlServer.BatchParser.dll
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SISCOC_FEL\bin\Debug\Microsoft.VisualStudio.VSIP.Helper.dll
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SISCOC_FEL\bin\Debug\SqlServerBackupRestore.pdb
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_BL.pdb
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_DAL.pdb
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_FEL.exe.config
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.exe
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.pdb
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SISCOC_FEL\obj\Debug\ResolveAssemblyReference.cache
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.csproj.ResolveComReference.cache
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmArticulo.resources
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmArticulo_Obra.resources
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmBuscaObra.resources
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmBusqueda.resources
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmProspecto.resources
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmProspectoDireccion.resources
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmContactoProveedor.resources
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmFiltroObra.resources
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmKit.resources
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmLogin.resources
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmObra.resources
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmPaginaPrincipal.resources
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmProveedor.resources
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmProveedor1.resources
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmReporteCliente.resources
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmTraspaso.resources
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmUsuario.resources
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmUtileria.resources
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.Properties.Resources.resources
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.Reportes.AReporteCliente.resources
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.FrmVisualizaReporte.resources
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.RepObra.resources
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.Splash.resources
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.csproj.GenerateResource.Cache
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SISCOC_FEL\obj\Debug\SISCOC_FEL.exe.licenses
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_FEL.exe
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_FEL.pdb
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SISCOC_FEL\bin\Debug\msmdvbanet.dll
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_BL.dll
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_DAL.dll
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SISCOC_FEL\bin\Debug\SqlServerBackupRestore.dll
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SISCOC_FEL\bin\Debug\Microsoft.VisualStudio.VSIP.Helper.dll
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SISCOC_FEL\bin\Debug\Microsoft.SqlServer.Replication.dll
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SISCOC_FEL\bin\Debug\Microsoft.SqlServer.BatchParser.dll
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SISCOC_FEL\bin\Debug\Microsoft.SqlServer.DTSRuntimeWrap.dll
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SISCOC_FEL\bin\Debug\SqlServerBackupRestore.pdb
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_DAL.pdb
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SISCOC_FEL\bin\Debug\SISCOC_BL.pdb

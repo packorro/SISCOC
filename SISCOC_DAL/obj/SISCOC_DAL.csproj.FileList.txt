@@ -1,0 +1,5 @@
+bin\Debug\SISCOC_DAL.dll
+bin\Debug\SISCOC_DAL.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SISCOC_DAL.dll
+obj\Debug\SISCOC_DAL.pdb

@@ -1,0 +1,437 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0EF081ED-0255-4CBC-91D5-8AEC4DAB86B1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SISCOC_FEL</RootNamespace>
+    <AssemblyName>SISCOC_FEL</AssemblyName>
+    <StartupObject>SISCOC_FEL.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Accessibility" />
+    <Reference Include="ActiveReports.Chart, Version=6.0.2019.0, Culture=neutral, PublicKeyToken=cc4967777c49a3ff, processorArchitecture=MSIL" />
+    <Reference Include="ActiveReports.Design6, Version=6.0.2019.0, Culture=neutral, PublicKeyToken=cc4967777c49a3ff, processorArchitecture=MSIL" />
+    <Reference Include="ActiveReports.Document, Version=6.0.2019.0, Culture=neutral, PublicKeyToken=cc4967777c49a3ff, processorArchitecture=MSIL" />
+    <Reference Include="ActiveReports.HtmlExport, Version=6.0.2019.0, Culture=neutral, PublicKeyToken=cc4967777c49a3ff, processorArchitecture=MSIL" />
+    <Reference Include="ActiveReports.PdfExport, Version=6.0.2019.0, Culture=neutral, PublicKeyToken=cc4967777c49a3ff, processorArchitecture=MSIL" />
+    <Reference Include="ActiveReports.Viewer6, Version=6.0.2019.0, Culture=neutral, PublicKeyToken=cc4967777c49a3ff, processorArchitecture=MSIL" />
+    <Reference Include="ActiveReports.XlsExport, Version=6.0.2019.0, Culture=neutral, PublicKeyToken=cc4967777c49a3ff, processorArchitecture=MSIL" />
+    <Reference Include="ActiveReports6, Version=6.0.2019.0, Culture=neutral, PublicKeyToken=cc4967777c49a3ff, processorArchitecture=MSIL" />
+    <Reference Include="ARVSPackage, Version=5.2.1331.1, Culture=neutral, PublicKeyToken=cc4967777c49a3ff" />
+    <Reference Include="Infragistics.Excel.v6.3, Version=6.3.20063.53, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb" />
+    <Reference Include="Infragistics.Shared.v6.3, Version=6.3.20063.53, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb" />
+    <Reference Include="Infragistics.Win.Misc.v6.3, Version=6.3.20063.53, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb" />
+    <Reference Include="Infragistics.Win.UltraWinCalcManager.v6.3, Version=6.3.20063.53, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb" />
+    <Reference Include="Infragistics.Win.UltraWinDataSource.v6.3, Version=6.3.20063.53, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb" />
+    <Reference Include="Infragistics.Win.UltraWinEditors.v6.3, Version=6.3.20063.53, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb" />
+    <Reference Include="Infragistics.Win.UltraWinGrid.ExcelExport.v6.3, Version=6.3.20063.53, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb" />
+    <Reference Include="Infragistics.Win.UltraWinGrid.v6.3, Version=6.3.20063.53, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb" />
+    <Reference Include="Infragistics.Win.UltraWinStatusBar.v6.3, Version=6.3.20063.53, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb" />
+    <Reference Include="Infragistics.Win.UltraWinTabbedMdi.v6.3, Version=6.3.20063.53, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb" />
+    <Reference Include="Infragistics.Win.UltraWinTabControl.v6.3, Version=6.3.20063.53, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb" />
+    <Reference Include="Infragistics.Win.UltraWinToolbars.v6.3, Version=6.3.20063.53, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb" />
+    <Reference Include="Infragistics.Win.v6.3, Version=6.3.20063.53, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb" />
+    <Reference Include="Microsoft.SqlServer.XMLSrc, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="msmdvbanet, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="SISCOC_BL, Version=1.0.0.5, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SISCOC_BL\bin\Debug\SISCOC_BL.dll</HintPath>
+    </Reference>
+    <Reference Include="SISCOC_DAL, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SISCOC_DAL\bin\Release\SISCOC_DAL.dll</HintPath>
+    </Reference>
+    <Reference Include="SqlServerBackupRestore, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SqlServerBackupRestore\bin\Release\SqlServerBackupRestore.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization.Formatters.Soap" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmArticulo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmArticulo.designer.cs">
+      <DependentUpon>FrmArticulo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmArticulo_Obra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmArticulo_Obra.designer.cs">
+      <DependentUpon>FrmArticulo_Obra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBuscaObra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBuscaObra.Designer.cs">
+      <DependentUpon>FrmBuscaObra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBusqueda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBusqueda.designer.cs">
+      <DependentUpon>FrmBusqueda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmProspecto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmProspecto.Designer.cs">
+      <DependentUpon>FrmProspecto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmProspectoDireccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmProspectoDireccion.Designer.cs">
+      <DependentUpon>FrmProspectoDireccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmContactoProveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmContactoProveedor.Designer.cs">
+      <DependentUpon>FrmContactoProveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmFiltroObra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmFiltroObra.designer.cs">
+      <DependentUpon>FrmFiltroObra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmKit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmKit.designer.cs">
+      <DependentUpon>FrmKit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmObra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmObra.Designer.cs">
+      <DependentUpon>FrmObra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPaginaPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPaginaPrincipal.designer.cs">
+      <DependentUpon>FrmPaginaPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmProveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmProveedor.Designer.cs">
+      <DependentUpon>FrmProveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmProveedor1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmProveedor1.Designer.cs">
+      <DependentUpon>FrmProveedor1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmReporteCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmReporteCliente.Designer.cs">
+      <DependentUpon>FrmReporteCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTraspaso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTraspaso.designer.cs">
+      <DependentUpon>FrmTraspaso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUsuario.Designer.cs">
+      <DependentUpon>FrmUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUtileria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUtileria.designer.cs">
+      <DependentUpon>FrmUtileria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmArticulo.resx">
+      <DependentUpon>FrmArticulo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmArticulo_Obra.resx">
+      <DependentUpon>FrmArticulo_Obra.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBuscaObra.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmBuscaObra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBusqueda.resx">
+      <DependentUpon>FrmBusqueda.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmProspecto.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmProspecto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmProspectoDireccion.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmProspectoDireccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmContactoProveedor.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmContactoProveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmFiltroObra.resx">
+      <DependentUpon>FrmFiltroObra.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmKit.resx">
+      <DependentUpon>FrmKit.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmObra.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmObra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPaginaPrincipal.resx">
+      <DependentUpon>FrmPaginaPrincipal.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmProveedor.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmProveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmProveedor1.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmProveedor1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmReporteCliente.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmReporteCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTraspaso.resx">
+      <DependentUpon>FrmTraspaso.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUsuario.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUtileria.resx">
+      <DependentUpon>FrmUtileria.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\AReporteCliente.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AReporteCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\FrmVisualizaReporte.resx">
+      <DependentUpon>FrmVisualizaReporte.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\RepObra.resx">
+      <DependentUpon>RepObra.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Splash.resx">
+      <DependentUpon>Splash.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Reportes\AReporteCliente.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes\AReporteCliente.Designer.cs">
+      <DependentUpon>AReporteCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\FrmVisualizaReporte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\FrmVisualizaReporte.designer.cs">
+      <DependentUpon>FrmVisualizaReporte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\RepObra.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes\RepObra.Designer.cs">
+      <DependentUpon>RepObra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Splash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Splash.designer.cs">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cuadro21.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit_group.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\configure.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\DataSources\SISCOC_BL.ClsObra.datasource" />
+    <None Include="Resources\209_png.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\DataSources\SISCOC_BL.ClsCliente.datasource" />
+    <None Include="Properties\DataSources\SISCOC_BL.ClsClienteDireccion.datasource" />
+    <None Include="Properties\DataSources\SISCOC_BL.ClsListas.datasource" />
+    <None Include="Properties\DataSources\SISCOC_BL.ClsUsuario.datasource" />
+    <None Include="Resources\tabla8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gestion-inmobiliaria.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cuadro Verde.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anju222.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boton2_0gimp.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cuadro Verde New2.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LoginAnju.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons7129_mod.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons5217__1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cancel-2-48x48___.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons6927.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons6030.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons7370.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\DataSources\SISCOC_BL.ClsContactoProveedor.datasource" />
+    <None Include="Properties\DataSources\SISCOC_BL.ClsProveedor.datasource" />
+    <None Include="Resources\8Control_Panel.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\49TXT_File.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3Blank_Document.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\DataSources\SISCOC_BL.ClsReportes.datasource" />
+    <None Include="Resources\Switch User.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blockdevice.png" />
+    <None Include="Resources\all-hot2.png" />
+    <None Include="Resources\database.png" />
+    <None Include="Resources\Copiar.png" />
+    <Content Include="Resources\delete1.gif" />
+    <None Include="Resources\insert11.gif" />
+    <None Include="Resources\icons7129_mod1.png" />
+    <None Include="Resources\icons7012_.png" />
+    <None Include="Resources\icons7015_.png" />
+    <None Include="Resources\gohome.png" />
+    <None Include="Resources\Gnome-System-Run-32.png" />
+    <None Include="Resources\Reload.png" />
+    <None Include="Resources\icons7117___.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

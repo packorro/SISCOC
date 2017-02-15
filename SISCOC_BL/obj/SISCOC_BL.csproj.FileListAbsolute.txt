@@ -1,0 +1,106 @@
+C:\SISTEMAS\SISCOC\SISCOC\SISCOC_BL\bin\Debug\SISCOC_BL.dll
+C:\SISTEMAS\SISCOC\SISCOC\SISCOC_BL\bin\Debug\SISCOC_BL.pdb
+C:\SISTEMAS\SISCOC\SISCOC\SISCOC_BL\obj\Debug\ResolveAssemblyReference.cache
+C:\SISTEMAS\SISCOC\SISCOC\SISCOC_BL\obj\Debug\SISCOC_BL.dll
+C:\SISTEMAS\SISCOC\SISCOC\SISCOC_BL\obj\Debug\SISCOC_BL.pdb
+C:\SISTEMAS\SISCOC\SISCOC\SISCOC_BL\bin\Debug\SISCOC_DAL.dll
+C:\SISTEMAS\SISCOC\SISCOC\SISCOC_BL\bin\Debug\SISCOC_DAL.pdb
+F:\Nueva carpeta\SISTEMAS\SISCOC\SISCOC\SISCOC_BL\bin\Debug\SISCOC_BL.dll
+F:\Nueva carpeta\SISTEMAS\SISCOC\SISCOC\SISCOC_BL\bin\Debug\SISCOC_BL.pdb
+F:\Nueva carpeta\SISTEMAS\SISCOC\SISCOC\SISCOC_BL\bin\Debug\SISCOC_DAL.dll
+F:\Nueva carpeta\SISTEMAS\SISCOC\SISCOC\SISCOC_BL\bin\Debug\SISCOC_DAL.pdb
+F:\Nueva carpeta\SISTEMAS\SISCOC\SISCOC\SISCOC_BL\obj\Debug\ResolveAssemblyReference.cache
+F:\Nueva carpeta\SISTEMAS\SISCOC\SISCOC\SISCOC_BL\obj\Debug\SISCOC_BL.Properties.Resources.resources
+F:\Nueva carpeta\SISTEMAS\SISCOC\SISCOC\SISCOC_BL\obj\Debug\SISCOC_BL.csproj.GenerateResource.Cache
+F:\Nueva carpeta\SISTEMAS\SISCOC\SISCOC\SISCOC_BL\obj\Debug\SISCOC_BL.dll
+F:\Nueva carpeta\SISTEMAS\SISCOC\SISCOC\SISCOC_BL\obj\Debug\SISCOC_BL.pdb
+F:\SISTEMAS\SISCOC\SISCOC_BL\bin\Debug\SISCOC_BL.dll
+F:\SISTEMAS\SISCOC\SISCOC_BL\bin\Debug\SISCOC_BL.pdb
+F:\SISTEMAS\SISCOC\SISCOC_BL\bin\Debug\SISCOC_DAL.dll
+F:\SISTEMAS\SISCOC\SISCOC_BL\bin\Debug\SISCOC_DAL.pdb
+F:\SISTEMAS\SISCOC\SISCOC_BL\obj\Debug\ResolveAssemblyReference.cache
+F:\SISTEMAS\SISCOC\SISCOC_BL\obj\Debug\SISCOC_BL.Properties.Resources.resources
+F:\SISTEMAS\SISCOC\SISCOC_BL\obj\Debug\SISCOC_BL.csproj.GenerateResource.Cache
+F:\SISTEMAS\SISCOC\SISCOC_BL\obj\Debug\SISCOC_BL.dll
+F:\SISTEMAS\SISCOC\SISCOC_BL\obj\Debug\SISCOC_BL.pdb
+E:\SISTEMAS\SISCOC\SISCOC_BL\bin\Release\SISCOC_BL.dll
+E:\SISTEMAS\SISCOC\SISCOC_BL\bin\Release\SISCOC_BL.pdb
+E:\SISTEMAS\SISCOC\SISCOC_BL\bin\Release\SISCOC_DAL.dll
+E:\SISTEMAS\SISCOC\SISCOC_BL\bin\Release\SISCOC_DAL.pdb
+E:\SISTEMAS\SISCOC\SISCOC_BL\obj\Release\ResolveAssemblyReference.cache
+E:\SISTEMAS\SISCOC\SISCOC_BL\obj\Release\SISCOC_BL.Properties.Resources.resources
+E:\SISTEMAS\SISCOC\SISCOC_BL\obj\Release\SISCOC_BL.csproj.GenerateResource.Cache
+E:\SISTEMAS\SISCOC\SISCOC_BL\obj\Release\SISCOC_BL.dll
+E:\SISTEMAS\SISCOC\SISCOC_BL\obj\Release\SISCOC_BL.pdb
+D:\SISTEMAS\SISCOC\SISCOC_BL\bin\Debug\SISCOC_BL.dll
+D:\SISTEMAS\SISCOC\SISCOC_BL\bin\Debug\SISCOC_BL.pdb
+D:\SISTEMAS\SISCOC\SISCOC_BL\bin\Debug\SISCOC_DAL.dll
+D:\SISTEMAS\SISCOC\SISCOC_BL\bin\Debug\SISCOC_DAL.pdb
+D:\SISTEMAS\SISCOC\SISCOC_BL\obj\Debug\ResolveAssemblyReference.cache
+D:\SISTEMAS\SISCOC\SISCOC_BL\obj\Debug\SISCOC_BL.Properties.Resources.resources
+D:\SISTEMAS\SISCOC\SISCOC_BL\obj\Debug\SISCOC_BL.csproj.GenerateResource.Cache
+D:\SISTEMAS\SISCOC\SISCOC_BL\obj\Debug\SISCOC_BL.dll
+D:\SISTEMAS\SISCOC\SISCOC_BL\obj\Debug\SISCOC_BL.pdb
+C:\ANJU\SISTEMAS\SISCOC\SISCOC_BL\obj\Debug\ResolveAssemblyReference.cache
+C:\ANJU\SISTEMAS\SISCOC\SISCOC_BL\obj\Debug\SISCOC_BL.Properties.Resources.resources
+C:\ANJU\SISTEMAS\SISCOC\SISCOC_BL\obj\Debug\SISCOC_BL.csproj.GenerateResource.Cache
+C:\ANJU\SISTEMAS\SISCOC\SISCOC_BL\obj\Debug\SISCOC_BL.dll
+C:\ANJU\SISTEMAS\SISCOC\SISCOC_BL\bin\Debug\SISCOC_BL.dll
+C:\ANJU\SISTEMAS\SISCOC\SISCOC_BL\bin\Debug\SISCOC_BL.pdb
+C:\ANJU\SISTEMAS\SISCOC\SISCOC_BL\bin\Debug\SISCOC_DAL.dll
+C:\ANJU\SISTEMAS\SISCOC\SISCOC_BL\bin\Debug\SISCOC_DAL.pdb
+C:\ANJU\SISTEMAS\SISCOC\SISCOC_BL\obj\Debug\SISCOC_BL.pdb
+C:\Sistema\SISCOC\SISCOC\SISCOC_BL\bin\Release\SISCOC_BL.dll
+C:\Sistema\SISCOC\SISCOC\SISCOC_BL\bin\Release\SISCOC_BL.pdb
+C:\Sistema\SISCOC\SISCOC\SISCOC_BL\bin\Release\SISCOC_DAL.dll
+C:\Sistema\SISCOC\SISCOC\SISCOC_BL\bin\Release\SISCOC_DAL.pdb
+C:\Sistema\SISCOC\SISCOC\SISCOC_BL\obj\Release\ResolveAssemblyReference.cache
+C:\Sistema\SISCOC\SISCOC\SISCOC_BL\obj\Release\SISCOC_BL.Properties.Resources.resources
+C:\Sistema\SISCOC\SISCOC\SISCOC_BL\obj\Release\SISCOC_BL.csproj.GenerateResource.Cache
+C:\Sistema\SISCOC\SISCOC\SISCOC_BL\obj\Release\SISCOC_BL.dll
+C:\Sistema\SISCOC\SISCOC\SISCOC_BL\obj\Release\SISCOC_BL.pdb
+C:\SISCOC\SISCOC\SISCOC_BL\bin\Debug\SISCOC_BL.dll
+C:\SISCOC\SISCOC\SISCOC_BL\bin\Debug\SISCOC_BL.pdb
+C:\SISCOC\SISCOC\SISCOC_BL\bin\Debug\SISCOC_DAL.dll
+C:\SISCOC\SISCOC\SISCOC_BL\bin\Debug\SISCOC_DAL.pdb
+C:\SISCOC\SISCOC\SISCOC_BL\obj\Debug\ResolveAssemblyReference.cache
+C:\SISCOC\SISCOC\SISCOC_BL\obj\Debug\SISCOC_BL.Properties.Resources.resources
+C:\SISCOC\SISCOC\SISCOC_BL\obj\Debug\SISCOC_BL.csproj.GenerateResource.Cache
+C:\SISCOC\SISCOC\SISCOC_BL\obj\Debug\SISCOC_BL.dll
+C:\SISCOC\SISCOC\SISCOC_BL\obj\Debug\SISCOC_BL.pdb
+E:\TOTAL\SISCOC\SISCOC\SISCOC_BL\bin\Release\SISCOC_BL.dll
+E:\TOTAL\SISCOC\SISCOC\SISCOC_BL\bin\Release\SISCOC_BL.pdb
+E:\TOTAL\SISCOC\SISCOC\SISCOC_BL\bin\Release\SISCOC_DAL.dll
+E:\TOTAL\SISCOC\SISCOC\SISCOC_BL\bin\Release\SISCOC_DAL.pdb
+E:\TOTAL\SISCOC\SISCOC\SISCOC_BL\obj\Release\ResolveAssemblyReference.cache
+E:\TOTAL\SISCOC\SISCOC\SISCOC_BL\obj\Release\SISCOC_BL.Properties.Resources.resources
+E:\TOTAL\SISCOC\SISCOC\SISCOC_BL\obj\Release\SISCOC_BL.csproj.GenerateResource.Cache
+E:\TOTAL\SISCOC\SISCOC\SISCOC_BL\obj\Release\SISCOC_BL.dll
+E:\TOTAL\SISCOC\SISCOC\SISCOC_BL\obj\Release\SISCOC_BL.pdb
+C:\Anju031109\SISCOC\SISCOC_BL\bin\Release\SISCOC_BL.dll
+C:\Anju031109\SISCOC\SISCOC_BL\bin\Release\SISCOC_BL.pdb
+C:\Anju031109\SISCOC\SISCOC_BL\bin\Release\SISCOC_DAL.dll
+C:\Anju031109\SISCOC\SISCOC_BL\bin\Release\SISCOC_DAL.pdb
+C:\Anju031109\SISCOC\SISCOC_BL\obj\Release\ResolveAssemblyReference.cache
+C:\Anju031109\SISCOC\SISCOC_BL\obj\Release\SISCOC_BL.Properties.Resources.resources
+C:\Anju031109\SISCOC\SISCOC_BL\obj\Release\SISCOC_BL.csproj.GenerateResource.Cache
+C:\Anju031109\SISCOC\SISCOC_BL\obj\Release\SISCOC_BL.dll
+C:\Anju031109\SISCOC\SISCOC_BL\obj\Release\SISCOC_BL.pdb
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SISCOC_BL\bin\Debug\SISCOC_BL.dll
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SISCOC_BL\bin\Debug\SISCOC_BL.pdb
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SISCOC_BL\bin\Debug\SISCOC_DAL.dll
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SISCOC_BL\bin\Debug\SISCOC_DAL.pdb
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SISCOC_BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SISCOC_BL\obj\Debug\SISCOC_BL.Properties.Resources.resources
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SISCOC_BL\obj\Debug\SISCOC_BL.csproj.GenerateResource.Cache
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SISCOC_BL\obj\Debug\SISCOC_BL.dll
+C:\Documents and Settings\Juan Pedro\Escritorio\Anju server Respaldo\SISCOC\SISCOC_BL\obj\Debug\SISCOC_BL.pdb
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SISCOC_BL\bin\Debug\SISCOC_BL.dll
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SISCOC_BL\bin\Debug\SISCOC_BL.pdb
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SISCOC_BL\bin\Debug\SISCOC_DAL.dll
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SISCOC_BL\bin\Debug\SISCOC_DAL.pdb
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SISCOC_BL\obj\Debug\ResolveAssemblyReference.cache
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SISCOC_BL\obj\Debug\SISCOC_BL.Properties.Resources.resources
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SISCOC_BL\obj\Debug\SISCOC_BL.csproj.GenerateResource.Cache
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SISCOC_BL\obj\Debug\SISCOC_BL.dll
+D:\Anju server Respaldo_Gold_Ultimate_C\SISCOC\SISCOC_BL\obj\Debug\SISCOC_BL.pdb
